@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @italoartista Media Artist, Software Engineer, AI Developer and Educator. 
-- 👀 I’m interested in many things.
-- 🌱 I’m currently learning Computer Science, Astropolitics and Ecology. 
-- 💞️ I’m looking to collaborate on creative projects.
-- 📫 How to reach me italo.creative.coder[at]gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I code every day for fun.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<!---
-italoartista/italoartista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Italo+Adler!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Brazil</h3>
+
+<br/>
+
