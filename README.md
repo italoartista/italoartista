@@ -4,7 +4,7 @@
 " />
 </h1>
 
-<h3 align="center">I love 'art and technology'</h3>
+<h3 align="center">I love /art and technology/</h3>
 
 <br/>
 
